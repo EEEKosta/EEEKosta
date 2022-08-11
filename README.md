@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Kostya
 #### I am manual QA Engineer
-![I am manual QA Engineer](https://cs9.pikabu.ru/post_img/big/2017/09/01/3/1504237513179580221.jpg)
+![I am manual QA Engineer](https://kartinkin.net/uploads/posts/2021-07/1626196570_20-kartinkin-com-p-kover-fon-krasivo-26.jpg)
 
 I
 
