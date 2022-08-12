@@ -11,11 +11,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="androidstudio" alt="androidstudio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="chrome" alt="chrome" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
-  <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/EEEKosta/icon/blob/main/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
   <img src="" title="" alt="" width="40" height="40"/>&nbsp;
 </div>
 
-https://www.vectorlogo.zone/util/preview.html?image=/logos/getpostman/getpostman-icon.svg
 https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg
 https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg
 https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg
