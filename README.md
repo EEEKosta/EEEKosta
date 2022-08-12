@@ -2,6 +2,7 @@
 ### Hi there 👋, my name is Kostya
 #### I am manual QA Engineer
 <div id="header" align="left">
+  <h1>Hi there 👋, my name is Kostya</h1>
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/>
 </div>
 
