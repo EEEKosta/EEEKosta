@@ -12,6 +12,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="chrome" alt="chrome" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/EEEKosta/icon/blob/main/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/EEEKosta/icon/blob/main/cypress.svg" title="cypress" alt="cypress" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
+  <img src="" title="" alt="" width="40" height="40"/>&nbsp;
   <img src="" title="" alt="" width="40" height="40"/>&nbsp;
 </div>
 
