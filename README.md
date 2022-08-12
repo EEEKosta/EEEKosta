@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/>
   <style>
    .color {
-     color: red; /* Красный цвет выделения */
+     color: red;
    }
   </style>
   <h2>I'm а manual QA Engineer <span class="color">Y</span>andex</h2>
