@@ -1,5 +1,5 @@
 <div id="cover" align="center">
-  <img src="https://github.com/EEEKosta/icon/blob/main/cover1.jpg" width="900" height="220"/>
+  <img src="https://github.com/EEEKosta/icon/blob/main/amam.jpg" width="900" height="220"/>
 </div>
 <div id="header" align="center">
   <h1>Hi there 👋, I'm Kostya</h1>
