@@ -2,9 +2,9 @@
   <img src="https://kartinkin.net/uploads/posts/2021-07/1626196570_20-kartinkin-com-p-kover-fon-krasivo-26.jpg" width="900" height="220"/>
 </div>
 <div id="header" align="center">
-  <h1>Салют 👋, меня зовут Костя</h1>
+  <h1>Hi there 👋, I'm Kostya</h1>
   <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="100"/>
-  <h2>Я ручной тестировщик</h2>
+  <h2>I'm manual QA Engineer</h2>
 </div>
 :hammer_and_wrench: Languages and Tools :
 <div>
