@@ -1,5 +1,5 @@
 <div id="cover" align="center">
-  <img src="https://kartinkin.net/uploads/posts/2021-07/1626196570_20-kartinkin-com-p-kover-fon-krasivo-26.jpg" width="100"/>
+  <img src="https://kartinkin.net/uploads/posts/2021-07/1626196570_20-kartinkin-com-p-kover-fon-krasivo-26.jpg" width="400"/>
 </div>
 <div id="header" align="center">
   <h1>Hi there 👋, my name is Kostya</h1>
